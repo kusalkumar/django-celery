@@ -1,6 +1,6 @@
 # django-celery
 Integrating celery with django 
-hello
+
 Steps to get started
 
 1 Step one :
@@ -32,8 +32,8 @@ vim dj_celery/settings.py
 
 5 Step five : Now you can run the server, celry and celery beat
 ```
-py manage.py runserver
-celery -A dj_celery worker -l INFO
+python manage.py runserver
+celery -A dj_celery worker -l INFO -E
 celery -A dj_celery beat -l INFO
 ```
 
