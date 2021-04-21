@@ -44,7 +44,7 @@ Configure async and periodic async task in admin portal
 
 ![image](https://user-images.githubusercontent.com/17420868/115117203-09f9d200-9fbb-11eb-9562-29a97f59c006.png)
 
-7.Step six:
+7.Step seven:
 
 We can see celery tasks status:
 ![image](https://user-images.githubusercontent.com/17420868/115500680-6c8af080-a28f-11eb-81e7-34fa015a8170.png)
